@@ -1,2 +1,4 @@
 # Income_prediction
 Predict income above 50000
+
+In this dataset, we have collected information related to income evaluation across various countries. Our objective is to leverage the available features to construct a predictive model capable of discerning whether an individual's income surpasses a predefined threshold, specifically exceeding $50,000. By developing this model, we aim to identify and understand the key factors that contribute to higher incomes. This predictive analysis holds the potential to uncover insights into the socio-economic dynamics and employment characteristics that correlate with elevated income levels. Ultimately, the knowledge gained from this model can provide valuable information for policymakers, researchers, and individuals seeking to comprehend the determinants of financial success across diverse geographic and demographic contexts.
